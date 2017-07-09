@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">Simple Calculator</string>
+    <string name="openParenthesis">(</string>
+    <string name="closeParenthesis">)</string>
+    <string name="deleteString">Del</string>
+    <string name="clearString">Clear</string>
+    <string name="sevenString">7</string>
+    <string name="eightString">8</string>
+    <string name="nineString">9</string>
+    <string name="multiplyString">X</string>
+    <string name="fourString">4</string>
+    <string name="fiveString">5</string>
+    <string name="sixString">6</string>
+    <string name="slashString">/</string>
+    <string name="oneString">1</string>
+    <string name="twoString">2</string>
+    <string name="threeString">3</string>
+    <string name="minusString">-</string>
+    <string name="periodString">.</string>
+    <string name="zeroString">0</string>
+    <string name="equalString">=</string>
+    <string name="plusString">+</string>
 </resources>
